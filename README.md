@@ -1,4 +1,4 @@
-## 현대모비스 대시보드
+## 대시보드 vue2
 
 ### Install
 ```bash
@@ -22,7 +22,7 @@ cd frontend %% npm run serve
 cd backend && npm start
 ```
 
-### Info(v2 변경점)
+### Info
 
 - **build 수정** 빌드파일 backend/dist 폴더로 이동 기존 방식인 js, css폴더 내부의 파일 지울 필요 없이 배포 가능
 - **serve 추가** 개발환경 시 webpack이용 가능(front수정 후 바로 적용확인)

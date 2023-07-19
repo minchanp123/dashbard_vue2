@@ -3,23 +3,11 @@
 ### 담당 업무
 * * *
 백엔드 
-  - API 설계 및 개발 담당
+  - expressjs 기반 API 설계 및 개발 담당
   - MongoDB 작업 및 설계
-
+  
 프론트 엔드 
-  - 대시보드 템플릿 작업, 구조 설계 담당
-
-### 스택
-* * *
-언어
-- javascript(NodeJs)
-
-백엔드
-- expressjs
-- MongoDB
-
-프론트엔드
-- vue2
+  - vue2 기반 대시보드 템플릿 작업, 구조 설계 담당
 
 ### Install
 ```bash

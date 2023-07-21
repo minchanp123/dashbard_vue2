@@ -3,13 +3,14 @@
 ### 담당 업무
 
 #### **백엔드**
-  - expressjs 기반 API 설계 및 개발 담당
-  - MongoDB 설계
-  - AWS EC2서버(리눅스)에 MongoDB, 웹서버 설치
+  - expressjs 기반 전체 API 구조 설계 및 개발 담당
+  - MongoDB 전체 컬렉션(20개) 설계 
+  - AWS EC2서버(리눅스)에서 테스트 작업을 위해 MongoDB, 웹서버 설치
+  - 고객사 내부 서버에 MongoDB, 배포 작업
   
 
 #### **프론트엔드** 
-  - vue2 기반 전체적인 설계, 구축, 개발 진행
+  - vue2 기반 전체 개발설계, 구축, 개발 진행
   - webpack 구축 및 배포
 
 
@@ -40,7 +41,7 @@ cd backend && npm start
 ```
 
 ### Info
-
+- **node v14**
 - **build 수정** 빌드파일 backend/dist 폴더로 이동 기존 방식인 js, css폴더 내부의 파일 지울 필요 없이 배포 가능
 - **serve 추가** 개발환경 시 webpack이용 가능(front수정 후 바로 적용확인)
 - web server port : 8080

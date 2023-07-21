@@ -5,7 +5,7 @@
 #### **백엔드**
   - expressjs 기반 전체 API 구조 설계 및 개발 담당
   - MongoDB 전체 컬렉션(20개) 설계 
-  - AWS EC2서버(리눅스)에서 테스트 작업을 위해 MongoDB, 웹서버 설치
+  - AWS EC2서버(리눅스)에 테스트용 MongoDB, 웹서버 설치
   - 고객사 내부 서버에 MongoDB, 배포 작업
   
 
